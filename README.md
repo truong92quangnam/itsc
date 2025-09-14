@@ -1,3 +1,4 @@
+I had git push --force origin main and it got the github to remove all of file and I dont know how to get it before, so I pushed it like before.
 ### Report of API testing.
 https://github.com/truong92quangnam/itsc/blob/main/routes/README.md
 Checking all of my report for testing about API. That all is Vietnamese.
